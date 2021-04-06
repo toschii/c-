@@ -1,0 +1,2 @@
+﻿  main.cpp
+LINK : fatal error LNK1104: Datei "glew32s.lib" kann nicht geöffnet werden.
