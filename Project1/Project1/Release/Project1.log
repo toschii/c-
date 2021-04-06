@@ -1,0 +1,2 @@
+﻿  main.cpp
+E:\Programmiren\VisualStudio\VC\Tools\MSVC\14.28.29333\include\yvals.h(12,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "crtdbg.h": No such file or directory
